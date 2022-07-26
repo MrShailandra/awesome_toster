@@ -26,7 +26,7 @@ Import package using below code.
   import 'package:awesome_toster/awesome_toster.dart';
 
   ```
-<img src="https://github.com/MrShailandra/awesome_toster/blob/master/gifs/toster_demo.gif?raw=true" alt="drawing" width="200"/>
+<img src="https://github.com/MrShailandra/awesome_toster/raw/master/gifs/toster_demo.gif?raw=true" alt="drawing" width="200"/>
 
 
 ## Usage
