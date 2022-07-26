@@ -20,13 +20,14 @@ Are you bored with traditional toaster and snakebar? Try out Awesome Toster with
 * Fully Customised Package
 
 ## Getting started
+Import package using below code.
 
-* Import This Package in your App. by using
-![enter image description here](https://github.com/MrShailandra/awesome_toster/blob/master/gifs/toster_demo.gif?raw=true)
-  ```
+```
   import 'package:awesome_toster/awesome_toster.dart';
 
   ```
+<img src="https://github.com/MrShailandra/awesome_toster/blob/master/gifs/toster_demo.gif?raw=true" alt="drawing" width="200"/>
+
 
 ## Usage
 
