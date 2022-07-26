@@ -1,7 +1,7 @@
 name: awesome_toster
 description: Are you bored with default tosters and snakebar? Try out Awesome Toster.
 version: 0.0.1
-homepage: null
+homepage: https://github.com/MrShailandra/awesome_toster
 
 environment:
   sdk: ">=2.17.6 <3.0.0"

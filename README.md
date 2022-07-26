@@ -11,29 +11,34 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+Are you bored with traditional toaster and snakebar? Try out Awesome Toster with good UI.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+* Show Warning, Error, Sucess Toster.
+* Fully Customised Package
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+* Import This Package in your App. by using
+
+  ```
+  import 'package:awesome_toster/awesome_toster.dart';
+
+  ```
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
+Try out this Snippet
 
 ```dart
-const like = 'sample';
+AwesomeToster().showOverlay(
+                    context: context,
+                    msg: "This is Sucess Msg",
+                    tosterHeight: 50,
+                    msgType: MsgType.SUCESS);
 ```
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+If you Found any Bug and if you want to contribute this project just create a pull request on Github
