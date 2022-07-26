@@ -1,3 +1,4 @@
+
 <!-- 
 This README describes the package. If you publish this package to pub.dev,
 this README's contents appear on the landing page for your package.
@@ -21,7 +22,7 @@ Are you bored with traditional toaster and snakebar? Try out Awesome Toster with
 ## Getting started
 
 * Import This Package in your App. by using
-
+![enter image description here](https://github.com/MrShailandra/awesome_toster/blob/master/gifs/toster_demo.gif?raw=true)
   ```
   import 'package:awesome_toster/awesome_toster.dart';
 
